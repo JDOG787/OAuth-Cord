@@ -1,7 +1,8 @@
 # OAuth-Cord
 
 A simple library to lighten and quicken the use of discord's oauth2
-
+<br /> 
+![img](https://github.com/JDOG787/OAuth-Cord/blob/master/imgs/oauth-cord.png?raw=true)
 # Docs
 Lets get started with using OAuth-cord!
 
