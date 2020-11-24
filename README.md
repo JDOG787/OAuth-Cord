@@ -1,6 +1,6 @@
 # OAuth-Cord
 
-A simple library to lighten ans quicken the use of discord's oauth2
+A simple library to lighten and quicken the use of discord's oauth2
 
 # Docs
 Lets get started with using OAuth-cord!
