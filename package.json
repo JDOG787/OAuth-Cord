@@ -1,0 +1,27 @@
+{
+  "name": "OAuth-Cord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDOG787/OAuth-Cord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JDOG787/OAuth-Cord/issues"
+  },
+  "homepage": "https://github.com/JDOG787/OAuth-Cord#readme",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
