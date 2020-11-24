@@ -1,17 +1,17 @@
 {
-  "name": "OAuth-Cord",
+  "name": "oauth-cord",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "test": "nodemon test/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JDOG787/OAuth-Cord.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "JDOG787",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JDOG787/OAuth-Cord/issues"
