@@ -63,7 +63,7 @@ Adds a user to a choosen guild! `Note: You need to create bot for your discord a
 const token = await client.getToken(code); 
 
 client.addUserGuild(token, botToken, serverId);
-// pass token, botToken, and serverId ar params
+// pass token, botToken, and serverId are params
 ```
 
 And thats it! Thats all the methods for now.
