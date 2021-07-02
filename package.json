@@ -1,7 +1,7 @@
 {
   "name": "oauth-cord",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple library to lighten and quicken the use of discord's oauth2 API.",
   "main": "src/index.js",
   "scripts": {
     "test": "nodemon test/index.js"
@@ -10,9 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/JDOG787/OAuth-Cord.git"
   },
-  "keywords": [],
+  "keywords": ["discord", "api", "api-client", "discord-api", "api-wrappper"],
   "author": "JDOG787",
-  "license": "ISC",
+  "license": "MIY",
   "bugs": {
     "url": "https://github.com/JDOG787/OAuth-Cord/issues"
   },
